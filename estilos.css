@@ -1,0 +1,49 @@
+body {
+    font-family: Arial;
+    background-color: #eeeeee;
+    padding: 20px;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: #333333;
+}
+
+label {
+    display: inline-block;
+    width: 180px;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 6px;
+    border: 1px solid #999;
+    border-radius: 4px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
+
+#mensaje {
+    color: green;
+    font-weight: bold;
+}
+
+#nota_sumada {
+    color: red;
+    font-weight: bold;
+}
